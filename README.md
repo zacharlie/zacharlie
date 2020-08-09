@@ -1,7 +1,9 @@
-### Hi there 👋
+[The Mr.Charles](https://www.linkedin.com/in/themrcharles/), building FOSSGIS@[Kartoza](https://kartoza.com).
 
 <!--
 **zacharlie/zacharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
