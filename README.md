@@ -1,5 +1,5 @@
 [The Mr.Charles](https://www.linkedin.com/in/themrcharles/), building FOSSGIS@[Kartoza](https://kartoza.com).
-<script>alert("surprise!🎉")</script>
+
 ```
                       ._____________________________.                      
                      /                              |                      
