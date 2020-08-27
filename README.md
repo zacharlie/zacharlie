@@ -1,6 +1,6 @@
 [The Mr.Charles](https://www.linkedin.com/in/themrcharles/), building FOSSGIS@[Kartoza](https://kartoza.com).
 
-![SVG](index.svg)
+![SVG](https://github.com/zacharlie/zacharlie/blob/master/index.svg)
 
 <!--
 **zacharlie/zacharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
