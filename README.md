@@ -1,8 +1,8 @@
 [The Mr.Charles](https://www.linkedin.com/in/themrcharles/), building FOSSGIS@[Kartoza](https://kartoza.com).
 
-> This is not the code you are looking for...
-
 ![Slapman](https://github.com/zacharlie/zacharlie/blob/master/slapman.gif)
+
+> This is not the code you are looking for...
 
 <!--
 **zacharlie/zacharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
