@@ -1,4 +1,6 @@
-[The Mr.Charles](https://www.linkedin.com/in/themrcharles/), building FOSSGIS@[Kartoza](https://kartoza.com).
+[The Mr.Charles](https://www.linkedin.com/in/themrcharles/), taking data from A to B through C @[Synatic](https://synatic.com).
+
+Former [Kartozian](https://kartoza.com) still sticking around to build Open Source GIS.
 
 > This is not the code you are looking for...
 
