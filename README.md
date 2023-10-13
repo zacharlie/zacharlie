@@ -1,6 +1,4 @@
-[The Mr.Charles](https://www.linkedin.com/in/themrcharles/), taking data from A to B through C @[Synatic](https://synatic.com).
-
-Former [Kartozian](https://kartoza.com) still sticking around to build Open Source GIS.
+[The Mr.Charles](https://www.linkedin.com/in/themrcharles/), building Software, Data, Geospatial & Solutions at [28East | Premier Google Maps partner](https://28east.co.za).
 
 > This is not the code you are looking for...
 
