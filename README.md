@@ -1,4 +1,4 @@
-[The Mr.Charles](https://www.linkedin.com/in/themrcharles/), building Software, Data, Geospatial & Solutions at [28East | Premier Google Maps partner](https://28east.co.za).
+[The Mr.Charles](https://www.linkedin.com/in/themrcharles/)
 
 ***
 
