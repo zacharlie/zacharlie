@@ -1,7 +1,3 @@
-[The Mr.Charles](https://www.linkedin.com/in/themrcharles/)
-
-***
-
 ### Keen on contributing to Open Source?
 
 You can help me with maintaining the QGIS Changelog.
